@@ -2,6 +2,10 @@
 
 https://amazon-next-js-redux-tailwind.vercel.app/  project still continue...
 
+Card Details: 4242-4242-4242-4242
+date: 04/24 CVC: 424
+Stripe is going to be expired 90 days later.
+
 ## Using npm
 
 Run commands
